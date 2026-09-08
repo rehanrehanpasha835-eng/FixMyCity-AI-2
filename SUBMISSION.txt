@@ -1,0 +1,4 @@
+Project Title: FixMyCity AI — From Complaints to Action
+
+Project Description:
+FixMyCity AI is an AI-assisted civic-tech platform that converts everyday citizen complaints into structured, prioritized civic issues. Users describe a problem in natural language, the system detects its category and generates a transparent priority score, and the dashboard ranks issues so communities or authorities can focus on high-impact problems first. The prototype is lightweight, mobile-friendly and works without an API key, making it suitable for rapid deployment and future integration with municipal systems.
